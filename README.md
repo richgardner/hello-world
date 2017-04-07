@@ -1,1 +1,3 @@
 # hello-world
+// just a few notes here about using GitHub for the first time...
+// note to self...need to use command-line checkout using Tortoise/SVN
